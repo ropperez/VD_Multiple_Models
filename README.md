@@ -3,8 +3,8 @@
 This repository contains the official MATLAB implementation for the paper:  
 **"Variable Dimension IMM and GPB2 Filters for Tracking in Multiple Model Systems"**  
 Published in **IEEE Transactions on Aerospace and Electronic Systems**.
-
-* **Paper Authors:** Roberto Pérez-Pérez and Ángel F. García-Fernández  
+* **Paper Authors:** Roberto Pérez-Pérez and Ángel F. García-Fernández
+* **DOI:** https://doi.org/10.1109/TAES.2026.3735979
 * **Code Implementation & Maintainer:** Roberto Pérez-Pérez  
 * **Affiliation:** Information Processing and Telecommunications Center, ETSI de Telecomunicación, Universidad Politécnica de Madrid, 28040 Madrid, Spain.  
 * **Repository URL:** [https://github.com/ropperez/VD_Multiple_Models](https://github.com/ropperez/VD_Multiple_Models)
